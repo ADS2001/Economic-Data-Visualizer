@@ -1,0 +1,15 @@
+# Economic Data Visualizer Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+requests>=2.31.0        # For API calls to World Bank
+matplotlib>=3.7.0       # For creating visualizations
+pandas>=2.1.0          # For data manipulation (future enhancements)
+
+# Development dependencies (optional)
+pytest>=7.4.0          # For testing (future use)
+black>=23.0.0          # For code formatting (future use)
+flake8>=6.0.0          # For linting (future use)
+
+# Note: This project is tested with Python 3.13+
+# Ensure you have Python 3.8+ for compatibility
