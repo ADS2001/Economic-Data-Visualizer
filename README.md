@@ -32,8 +32,8 @@ The application generates professional economic visualizations like this:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ADS2001/Economic-Data-Visualizer.git
-   cd economic-data-visualizer
+   git clone https://github.com/ADS2001/Economic-Data-Visualizer.git Economic-Data-Visualizer
+   cd Economic-Data-Visualizer
    ```
 
 2. **Create virtual environment**
